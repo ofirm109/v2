@@ -1,0 +1,7 @@
+﻿body {
+}
+label{
+    direction:rtl;
+    display:block;
+    float:right;
+}
